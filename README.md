@@ -1,11 +1,7 @@
-## CIT 281 Project 01
+## CIT 281 Project 04
 
-In this project, we had to:
-- Use the command line interface (CLI) of your operating system to create a number of folders
-- List the folders in a tree-like structure
-- Use the ping command, and practice using the break keyboard sequence
-- Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+In this project, we had to create a REST API that works with a data source of questions and answers. I created all of the code to work with the data source using a code module. I also created a Node.js REST API to handle the GET verb. 
 
-Throughout the project, I refined my skills with the CLI commands, as well as got practice with VSCode and executing non-web server Node.js JS code.
+Throughout the project, I learned how to use the REST API server in VSCode. I also gained experience with using static data. Up until this point, I had not used Postman for an actual webpage I was running. 
 
 Click "View on GitHub" button to see project code. 
